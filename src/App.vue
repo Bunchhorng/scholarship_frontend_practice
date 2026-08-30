@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import Count from './components/view/Count.vue';
 import Navbar from './components/layout/navbar.vue';
 import Footer from './components/layout/Footer.vue';
 
