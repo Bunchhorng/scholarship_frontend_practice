@@ -1,5 +1,4 @@
-<script setup>
-import { ref } from 'vue'
+<script setup lang="ts">
 
 const currentYear = new Date().getFullYear()
 
